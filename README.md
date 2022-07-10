@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/abod_ftw" target="blank"><img src="https://img.shields.io/twitter/follow/abod_ftw?logo=twitter&style=for-the-badge" alt="abod_ftw" /></a> </p>
 <p align="left"> <a href="https://twitter.com/whilelab" target="blank"><img src="https://img.shields.io/twitter/follow/whilelab?logo=twitter&style=for-the-badge" alt="abod_ftw" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** **Rust**
 
 - 📝 I regularly write articles on [https://whilelab.com](https://whilelab.com)
 
