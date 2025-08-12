@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abod</h1>
-<h3 align="center">A professional developer, content creator and indie hacker on the side.</h3>
+<h3 align="center">Senior Software Engineer, Content creator, and Indie developer from time to time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abodftw&label=Profile%20views&color=0e75b6&style=flat" alt="abodftw" /> </p>
 
